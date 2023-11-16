@@ -8,7 +8,7 @@ Ejemplos:
 - Librerias basicas de c++
 - Tener instalado CUDA
 
-#Ejecucion
+# Ejecucion
 Ejecutar el makefile
 ```bash
 make
