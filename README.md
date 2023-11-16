@@ -1,5 +1,8 @@
 # INFO188_AyudantiaParalelismoCuda
-Ayudantia para la asignatura INFO188 UACh sobre programacion paralela utilizando CUDA
+Ayudantia para la asignatura INFO188 UACh sobre programacion paralela utilizando CUDA.
+Ejemplos:
+- Game of life
+- Reduction
 
 # Requisitos:
 - Librerias basicas de c++
