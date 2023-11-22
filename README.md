@@ -2,7 +2,7 @@
 Ayudantia para la asignatura INFO188 UACh sobre programacion paralela utilizando CUDA.
 Ejemplos:
 - Game of life
-- Reduction
+- Reduction sum using warp shuffle
 
 # Requisitos:
 - Librerias basicas de c++
