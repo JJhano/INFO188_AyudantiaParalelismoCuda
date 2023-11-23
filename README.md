@@ -13,7 +13,12 @@ Ejecutar el makefile
 ```bash
 make
 ```
-Ejecutar el archivo ./prog
+Para ejecutar el juego de la vida ./prog
 ```bash
 ./prog <gpu-id>  n seed pasos <block-size>
 ```
+Para ejecutar el warp shuffle ./prog
+```bash
+./prog <gpu-id>  n seed
+```
+Si seed = 0 el arreglo se construye solo con 1s
