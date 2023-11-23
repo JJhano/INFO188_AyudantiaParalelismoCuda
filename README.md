@@ -1,8 +1,8 @@
 # INFO188_AyudantiaParalelismoCuda
 Ayudantia para la asignatura INFO188 UACh sobre programacion paralela utilizando CUDA.
 Ejemplos:
-- Game of life
-- Reduction sum using of array using warp shuffle
+- Game of life example using CUDA
+- Example of reduction sum of array using warp shuffle 
 
 # Requisitos:
 - Librerias basicas de c++
