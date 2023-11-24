@@ -21,4 +21,4 @@ Para ejecutar el warp shuffle ./prog2
 ```bash
 ./prog2 <gpu-id>  n seed
 ```
-Si seed = 0 el arreglo se construye solo con 1s
+Para el prog2 si seed = 0 el arreglo se construye solo con 1s
